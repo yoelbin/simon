@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116326097425",
+    "project_id": "simon-7d223",
+    "storage_bucket": "simon-7d223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116326097425:android:a395d665be3cc6c0c3c7b0",
+        "android_client_info": {
+          "package_name": "com.simon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116326097425-b5in7di28ifsnh9f4uch5pd7ebprgp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOg-ucbx5LCHIIh0S7z7IP-emD5gtqNro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116326097425-b5in7di28ifsnh9f4uch5pd7ebprgp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
